@@ -1,0 +1,44 @@
+header {
+    background-color: white;
+}
+
+body {
+    background-color: #f1f1f1;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+#contact{
+    color: white;
+    border-color: white;
+}
+
+
+
+p {
+    margin: 15px 0;
+}
+
+#sidebar section, #main-section section {
+    background-color: #fff;
+    margin: 25px 0;
+}
+
+.content-spacing {
+    padding: 20px 15px;
+}
+
+.description {
+    margin-bottom: 15px; 
+}
+
+#link {
+    color: white;
+}
+
+#navbarDropdown {
+    color: white;
+}
